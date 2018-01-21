@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IakH1</string>
+    <string name="Login">LOGIN</string>
+    <string name="akun">To \n Your Acount</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+</resources>
